@@ -13,13 +13,13 @@
                 "unitybanner":"bannerOxoo",
                 "unityinter":"interOxoo",
 
-                "startapp_id":"XXXXXXXXXXX",
+     
 
-                "admob_app_id":"ca-app-pub-XXXXXXXXXXX~XXXXXXXXXXX",
-                "developerId":"pub-XXXXXXXXXXX",
-                "admob_banner":"ca-app-pub-XXXXXXXXXXX/XXXXXXXXXXX",
-                "admobnative":"ca-app-pub-XXXXXXXXXXX/XXXXXXXXXXX",
-                "admobinter":"ca-app-pub-XXXXXXXXXXX/XXXXXXXXXXX"
+               "admob_app_id":"ca-app-pub-394025609994254~77850731344",
+                "admob_banner":"ca-app-pub-394025609994254/6300978111",
+                "admobnative":"ca-app-pub-394025609994254/2247696110",
+                "admobinter":"ca-app-pub-394025609994254/1033173712",
+                "admobreward":"ca-app-pub-3940256099942544/5224354917"  
                 
                
         }
