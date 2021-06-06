@@ -3,10 +3,10 @@
         {
                 "server_url": "http://apmovann.com//app/speed_api.php",
                 
-                "FBrewardsAds": "",
-                "facebook_banner":"XXXXXXXXXXX_XXXXXXXXXXX",
-                "fbinter":"XXXXXXXXXXX_XXXXXXXXXXX",
-                "fbnative":"XXXXXXXXXXX_XXXXXXXXXXX",
+              "FBrewardsAds": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+                "facebook_banner":"IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+                "fbinter":"IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+                "fbnative":"VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782",
                 
                 "unityGameID":"xxxx", 
                 "unityrewardId":"video",
@@ -15,10 +15,10 @@
 
      
 
-               "admob_app_id":"ca-app-pub-394025609994254~77850731344",
-                "admob_banner":"ca-app-pub-394025609994254/6300978111",
-                "admobnative":"ca-app-pub-394025609994254/2247696110",
-                "admobinter":"ca-app-pub-394025609994254/1033173712",
+               "admob_app_id":"ca-app-pub-394025609994254477850731344",
+                "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+                "admobnative":"ca-app-pub-3940256099942544/2247696110",
+                "admobinter":"ca-app-pub-3940256099942544/1033173712",
                 "admobreward":"ca-app-pub-3940256099942544/5224354917"  
                 
                
