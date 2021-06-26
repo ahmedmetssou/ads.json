@@ -3,17 +3,16 @@
         {
                 "server_url": "http://apmovann.com/app/speed_api.php",
                 
-                    "admob_banner":"xxxxx"
-					"admobinter":"xxxxx"
-					"admobnative":"xxxxx"
-					"admobreward":"xxxxx"
-					
-					"isAdmob":"true"
-					"mopub_banner":"xxxxx"
-					
-				"mopub_interstitial":"xxxxx"
-				"mopub_native":"xxxxx"
-					"mopub_reward":"xxxxx"
+                 "admob_banner":"ca-app-pub-394025609994254/6300978111",
+                "admobnative":"ca-app-pub-394025609994254/2247696110",
+                "admobinter":"ca-app-pub-394025609994254/1033173712",
+                "admobreward":"ca-app-pub-3940256099942544/5224354917" 
+		
+		"isAdmob":"true"
+		"mopub_banner":"xxxxx"
+		"mopub_interstitial":"xxxxx"
+		 "mopub_native":"xxxxx"
+		"mopub_reward":"xxxxx"
 					
                 
                
