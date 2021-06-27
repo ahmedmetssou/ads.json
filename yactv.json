@@ -1,22 +1,24 @@
 {
     "data": 
         {
-                "server_url": "http://apmovann.com/app/speed_api.php",
-                 "package": "com.kora.live.yassine.tv",
-                 "admob_banner":"ca-app-pub-394025609994254/6300978111",
-                "admobnative":"ca-app-pub-394025609994254/2247696110",
-                "admobinter":"ca-app-pub-394025609994254/1033173712",
-                "admobreward":"ca-app-pub-3940256099942544/5224354917" ,
-		
-		"isAdmob" :"true",
-		"mopub_banner" :"xxxxx",
-		"mopub_interstitial" :"xxxxx",
-		 "mopub_native" :"xxxxx",
-		"mopub_reward": "xxxxx",
-					
-                
-               
-        }
-       
- 
-}
+                "Package_name": "com.test.saver",
+
+                "term_url": "http://apmovann.com/movies/terms/",
+                "server_url": "http://apmovann.com/movies/rest-api/",
+                "api_key": "w7jpp9zb1yq18xy3ef4ip6rk",
+                "envato_code" : "xxxxxx",
+
+
+             "FBrewardsAds": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+                "facebook_banner":"IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+                "fbinter":"IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+                "fbnative":"VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782",
+
+                "unityGameID":"xxxx", 
+                "unityrewardId":"video",
+                "unitybanner":"bannerOxoo",
+                "unityinter":"interOxoo",
+
+                "startapp_id":"XXXXXXXXXXX",
+
+                "admob_app_id":"ca-app-pub-XXXX
