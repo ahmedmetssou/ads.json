@@ -1,0 +1,24 @@
+{
+  "selected_ads_network": "admob",
+  "enable_ads": true,
+  "interstitial_interval": 3,
+  "rewarded_enabled": true,
+  "banner_enabled": true,
+  "ad_unit_ids": {
+    "admob": {
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded": "ca-app-pub-3940256099942544/5224354917"
+    },
+    "facebook": {
+      "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "rewarded": "VID_HD_16_9_46S_APP_INSTALL#YOUR_PLACEMENT_ID"
+    },
+    "applovin": {
+      "banner": "YOUR_TEST_BANNER_AD_UNIT_ID",
+      "interstitial": "YOUR_TEST_INTERSTITIAL_AD_UNIT_ID",
+      "rewarded": "YOUR_TEST_REWARDED_AD_UNIT_ID"
+    }
+  }
+}
